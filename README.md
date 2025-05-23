@@ -46,5 +46,5 @@ Una calculadora gráfica simple con diseño similar al de iOS, construida usando
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/Spinon64/JavaCalculator.git
+cd calculadora
