@@ -9,7 +9,7 @@ Una calculadora gráfica simple con diseño similar al de iOS, construida usando
 
 ## 🖥️ Captura de pantalla
 
-<img src="ruta/a/la/imagen.png" alt="Captura de la calculadora" width="300"/>
+<img src="https://github.com/Spinon64/JavaCalculator/blob/main/Calculator.png" alt="Captura de la calculadora" width="300"/>
 
 ---
 
